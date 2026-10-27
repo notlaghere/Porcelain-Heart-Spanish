@@ -25,7 +25,7 @@ Apoya al desarrollador adquiriendo el juego:
 
 1. Descarga la versión más reciente del archivo comprimido (`Traduccion_Español_PorcelainHeart.zip`).
 2. Abre la carpeta donde tienes instalado el juego.
-3. Descomprime el contenido del archivo `.zip` y cópialo directamente dentro de la carpeta raíz del juego.
+3. Descomprime el contenido del archivo `.zip` y copia los tres archivos y la carpeta directamente dentro de la carpeta raíz del juego.
    * *Si te pide reemplazar archivos o carpetas existentes, selecciona **Reemplazar**.*
 4. Inicia el juego con normalidad. Los textos deberían aparecer en español.
 
